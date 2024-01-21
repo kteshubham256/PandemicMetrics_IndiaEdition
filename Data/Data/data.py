@@ -1,0 +1,95 @@
+# Initialize the TableOneStatedictionary
+
+TableOneState = {
+    "state":[],
+    "district":[],
+    "state_population":[],
+    "state_delta_confirmed":[],
+    "state_delta_tested":[],
+    "state_delta_deceased":[],
+    "state_delta_recovered":[],
+    "state_delta_vaccinated1":[],
+    "state_delta_vaccinated2":[],
+    "state_delta_other":[],
+    "state_delta7_other":[],
+    "state_delta21_14_other":[],
+    "state_delta7_confirmed":[],
+    "state_delta7_tested":[],
+    "state_delta7_deceased":[],
+    "state_delta7_recovered":[],
+    "state_delta7_vaccinated1":[],
+    "state_delta7_vaccinated2":[],
+    "state_delta21_14_confirmed":[],
+    "state_delta21_14_tested":[],
+    "state_delta21_14_deceased":[],
+    "state_delta21_14_recovered":[],
+    "state_delta21_14_vaccinated1":[],
+    "state_delta21_14_vaccinated2":[],
+    "state_total_confirmed":[],
+    "state_total_deceased":[],
+    "state_total_recovered":[],
+    "state_total_tested":[],
+    "state_total_vaccinated1":[],
+    "state_total_vaccinated2":[],
+    "state_total_other":[]
+}
+
+# Initialize the TableOneDistrictdictionary
+
+TableOneDistrict= {
+    "district": [],
+    "confirmed_delta": [],
+    "deceased_delta": [],
+    "tested_delta":[],
+    "tested_delta7":[],
+    "tested_delta21_14":[],
+    "recovered_delta": [],
+    "vaccinated1_delta": [],
+    "vaccinated2_delta": [],
+    "confirmed_delta7": [],
+    "deceased_delta7": [],
+    "recovered_delta7": [],
+    "vaccinated1_delta7": [],
+    "vaccinated2_delta7": [],
+    "confirmed_delta21_14": [],
+    "deceased_delta21_14": [],
+    "recovered_delta21_14": [],
+    "vaccinated1_delta21_14": [],
+    "vaccinated2_delta21_14": [],
+    "population":[],
+    "confirmed_total":[],
+    "deceased_total":[],
+    "recovered_total":[],
+    "tested_total":[],
+    "vaccinated1_total":[],
+    "vaccinated2_total":[]
+}
+
+
+
+# Initialize the TableTwo
+TableTwo = {
+    "state_code":[],
+    "dates":[],
+    "confirmed_delta": [],
+    "deceased_delta": [],
+    "tested_delta":[],
+    "recovered_delta": [],
+    "vaccinated1_delta": [],
+    "vaccinated2_delta": [],
+    "other_delta":[],
+    "other_delta7":[],
+    "confirmed_delta7": [],
+    "deceased_delta7": [],
+    "recovered_delta7": [],
+    "tested_delta7":[],
+    "vaccinated1_delta7": [],
+    "vaccinated2_delta7": [],
+    "confirmed_total": [],
+    "deceased_total": [],
+    "recovered_total": [],
+    "tested_total":[],
+    "vaccinated1_total": [],
+    "vaccinated2_total": [],
+    "other_total":[]
+}
