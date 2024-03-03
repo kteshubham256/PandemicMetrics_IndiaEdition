@@ -42,8 +42,19 @@ DA201 Project
 - `pwd`: Print working directory (current folder).
 - `ls`: List all files and folders in the directory.
 - `cd`: Change the directory.
-### Dashboard 
+# Dashboard 
 <img width="544" alt="Screenshot 2024-03-03 192802" src="https://github.com/kteshubham256/coding-rasik-1098/assets/148578267/db6b3657-3439-483f-bff7-fcf40a30c93d">
+
+### Year wise slicer
+<img width="545" alt="Screenshot 2024-03-03 193813" src="https://github.com/kteshubham256/coding-rasik-1098/assets/148578267/c8c85bb9-5ddf-479e-aeb9-c57738b71e88">
+
+### Slicer to see the State wise Data
+<img width="547" alt="Screenshot 2024-03-03 193841" src="https://github.com/kteshubham256/coding-rasik-1098/assets/148578267/9683f2a4-74a6-4f81-91f6-c3ae8849df00">
+
+### Slicer to see the data for perticular district
+<img width="546" alt="Screenshot 2024-03-03 194023" src="https://github.com/kteshubham256/coding-rasik-1098/assets/148578267/c5569e0f-eb44-485f-9119-b99fbcf07ca2">
+
+
 
   
 
