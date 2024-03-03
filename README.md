@@ -1,5 +1,5 @@
-# coding-rasik-1098
-DA201 Project
+# PandemicMetrics_IndiaEdition
+# Project code: coding-rasik-1098 (DA201 Project)
 
 # GitHub Repository Setup
 
