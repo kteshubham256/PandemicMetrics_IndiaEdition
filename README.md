@@ -42,4 +42,8 @@ DA201 Project
 - `pwd`: Print working directory (current folder).
 - `ls`: List all files and folders in the directory.
 - `cd`: Change the directory.
+### Dashboard 
+<img width="544" alt="Screenshot 2024-03-03 192802" src="https://github.com/kteshubham256/coding-rasik-1098/assets/148578267/db6b3657-3439-483f-bff7-fcf40a30c93d">
+
+  
 
